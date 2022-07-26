@@ -12,9 +12,11 @@ It's necessary to have installed:
 # To compile and run
 Download repository and run in console:
 
-> lex glc.lex
-> yacc -d glc.yac
-> gcc lex.yy.c y.tab.c
-> ./a.out
+```
+$ lex glc.lex
+$ yacc -d glc.yac
+$ gcc lex.yy.c y.tab.c
+$ ./a.out
+```
 
 And go ahead!
