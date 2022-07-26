@@ -1,7 +1,7 @@
 # Welcome!
 
 Lex & Yacc program that translates the definition and creation of integer array 
-and scalar basic operation in R programming language to a new C program. 
+and scalar basic operations in R programming language to a new C program. 
 
 # Prerequisites
 
